@@ -1,0 +1,6 @@
+C:\Users\mrt_b\Desktop\Kod S Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\bin\Debug\Kod S Basamak Sayisi Bul v2.0.exe
+C:\Users\mrt_b\Desktop\Kod S Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\bin\Debug\Kod S Basamak Sayisi Bul v2.0.pdb
+C:\Users\mrt_b\Desktop\Kod S Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\obj\x86\Debug\Kod S Basamak Sayisi Bul v2.0.exe
+C:\Users\mrt_b\Desktop\Kod S Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\obj\x86\Debug\Kod S Basamak Sayisi Bul v2.0.pdb
+E:\03 - Yazılım\06 - Console Projeler\04 Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\obj\x86\Debug\Kod S Basamak Sayisi Bul v2.0.exe
+E:\03 - Yazılım\06 - Console Projeler\04 Basamak Sayisi Bul v2.0\Kod S Basamak Sayisi Bul v2.0\obj\x86\Debug\Kod S Basamak Sayisi Bul v2.0.pdb
